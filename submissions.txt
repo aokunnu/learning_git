@@ -37,13 +37,14 @@ Adrian Gomez Lafaire @adriangl98/labWebsite
 Nicholas Rhodes@NickR055/NickR
 Ricardo Duenez@ricardoduenez/Lab8.0
 Vernesha Hazel@verneshahazel/Lab8
-Gustavo Garcia@/gustavogarciataunton/lab-8
+Gustavo Garcia@gustavogarciataunton/lab-8
 Mubtasim Abrar@rummanrulez/lab8
+Grant Thumann@gathumann/lab8
 Hunter Cornay@Corndogz/LAB8
 Grant Thumann@gathumann/git_demo
 Shelby Kawejsza@sakawejsza/lab8
 Rufino Oregon@rufino-1/Lab8_TCMG303
 Nathan Browning@natebleep/lab8
 Aidan Robison@aidanrobison/lab8
-Dalton Peltier@Dalton67/lab8
 Tylor Herndon@tylooor/TCMG303_Lab8
+Dalton Peltier@Dalton67/lab8
